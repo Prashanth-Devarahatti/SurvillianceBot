@@ -1,6 +1,6 @@
 # Survilliance Bot Webmiever (KATTAPPA)
 
-Webmiwer is a web-based robot control system that allows you to control a Raspberry Pi-based robot remotely through a web interface. You can stream live camera feed from the robot and send movement commands using buttons on the web page.
+Webmiwer is a web-based robot control system that allows you to control a Raspberry Pi-based robot remotely through a web interface. You can stream live camera feed from the robot and send movement commands using buttons on the web page connected to same network.
 
 ## Dependencies:
 
